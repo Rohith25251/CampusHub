@@ -1,0 +1,9 @@
+export { Home } from './Home';
+export { AdminDashboard } from './AdminDashboard';
+export { UserDashboard } from './UserDashboard';
+export { Events } from './Events';
+export { EventDetail } from './EventDetail';
+export { Profile } from './Profile';
+export { Analytics } from './Analytics';
+export { Attendees } from './Attendees';
+export { Dashboard } from './Dashboard';
